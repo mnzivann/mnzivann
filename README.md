@@ -39,7 +39,7 @@ Soy estudiante de Ingeniería en Sistemas y un gran entusiasta de la tecnología
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnzivann&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
 </p>
 
-### 📫 Cómo contactarme
+### Cómo contactarme
 - **LinkedIn:** https://www.linkedin.com/in/mnzivann/
 - **Email:** [jorge24@gmail.com](mailto:tu-correo@email.com)
 - **Ubicación:** León, Guanajuato, México
