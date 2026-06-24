@@ -40,6 +40,6 @@ Soy estudiante de Ingeniería en Sistemas y un gran entusiasta de la tecnología
 </p>
 
 ### 📫 Cómo contactarme
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/mnzivann/
 - **Email:** [jorge24@gmail.com](mailto:tu-correo@email.com)
 - **Ubicación:** León, Guanajuato, México
